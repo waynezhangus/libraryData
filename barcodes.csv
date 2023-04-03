@@ -1,0 +1,29 @@
+﻿Barcode,Possible Barcode,Type,General Type
+HP,HP-22PW-110,HP Laptop,Device
+CBK,CBK,ChromeBook,Device
+MP,,MacBook,Device
+CLICC-ML,MP/MA,MacBook,Device
+CLICC-MM,PAD,iPad,Device
+FAC,,iPad,Device
+IPADK,,iPad,Device
+ANDROID,UMI,Micro Cable,Charger
+IPHONE,UL,Lightning Cable,Charger
+BOEIPHONE,,Lightning Cable,Charger
+MACCHRG,"UMAGT, UMAG2, UMAG3",MagSafeT Charger,Charger
+OLDMACCHRG,UMAGL,MagSafeL Charger,Charger
+MACUSBC,UC,TypeC Charger,Charger
+HPUSBC,,TypeC Charger,Charger
+WALLADPT,WALL,Wall Adaptor,Charger
+ANKER,ANKER,Anker Power,Charger
+OMNI,OMNI,Omni Power,Charger
+VGA,VGAC,VGA Cable,Connector
+BIOUSBCVGA,,VGA Cable,Connector
+UVGA,VGAA,VGA Adaptor,Connector
+HDMIC,HDMIC,HDMI Cable,Connector
+UHDMI,HDMIA,HDMI Adaptor,Connector
+MSE,,Mouse,Accessory
+LABMSE,MSE,Mouse,Accessory
+HDST,HDST,Headphone,Accessory
+CALC,CALC,CALC,Accessory
+SUP,SUP,Super Drive,Accessory
+AD,AD,EE Devices,EE Devices
