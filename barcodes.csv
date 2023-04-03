@@ -1,29 +1,29 @@
-﻿Barcode,Possible Barcode,Type,General Type
-HP,HP-22PW-110,HP Laptop,Device
-CBK,CBK,ChromeBook,Device
-MP,,MacBook,Device
-CLICC-ML,MP/MA,MacBook,Device
-CLICC-MM,PAD,iPad,Device
-FAC,,iPad,Device
-IPADK,,iPad,Device
-ANDROID,UMI,Micro Cable,Charger
-IPHONE,UL,Lightning Cable,Charger
-BOEIPHONE,,Lightning Cable,Charger
-MACCHRG,"UMAGT, UMAG2, UMAG3",MagSafeT Charger,Charger
-OLDMACCHRG,UMAGL,MagSafeL Charger,Charger
-MACUSBC,UC,TypeC Charger,Charger
-HPUSBC,,TypeC Charger,Charger
-WALLADPT,WALL,Wall Adaptor,Charger
-ANKER,ANKER,Anker Power,Charger
-OMNI,OMNI,Omni Power,Charger
-VGA,VGAC,VGA Cable,Connector
-BIOUSBCVGA,,VGA Cable,Connector
-UVGA,VGAA,VGA Adaptor,Connector
-HDMIC,HDMIC,HDMI Cable,Connector
-UHDMI,HDMIA,HDMI Adaptor,Connector
-MSE,,Mouse,Accessory
-LABMSE,MSE,Mouse,Accessory
-HDST,HDST,Headphone,Accessory
-CALC,CALC,CALC,Accessory
-SUP,SUP,Super Drive,Accessory
-AD,AD,EE Devices,EE Devices
+﻿Barcode,Possible Barcode,Item Type,General Item Type,Item Policy
+HP,HP-22PW-110,HP Laptop,Device,7d
+CBK,CBK,ChromeBook,Device,7d
+MP,,MacBook,Device,7d
+CLICC-ML,MP/MA,MacBook,Device,7d
+CLICC-MM,PAD,iPad,Device,7d
+FAC,,iPad,Device,7d
+IPADK,,iPad,Device,7d
+ANDROID,UMI,Micro Cable,Charger,6h
+IPHONE,UL,Lightning Cable,Charger,6h
+BOEIPHONE,,Lightning Cable,Charger,6h
+MACCHRG,"UMAGT, UMAG2, UMAG3",MagSafeT Charger,Charger,6h
+OLDMACCHRG,UMAGL,MagSafeL Charger,Charger,6h
+MACUSBC,UC,TypeC Charger,Charger,6h
+HPUSBC,,TypeC Charger,Charger,6h
+WALLADPT,WALL,Wall Adaptor,Charger,6h
+ANKER,ANKER,Anker Power,Charger,6h
+OMNI,OMNI,Omni Power,Charger,6h
+VGA,VGAC,VGA Cable,Connector,6h
+BIOUSBCVGA,,VGA Adaptor,Connector,6h
+UVGA,VGAA,VGA Adaptor,Connector,6h
+HDMIC,HDMIC,HDMI Cable,Connector,6h
+UHDMI,HDMIA,HDMI Adaptor,Connector,6h
+MSE,,Mouse,Accessory,6h
+LABMSE,MSE,Mouse,Accessory,6h
+HDST,HDST,Headphone,Accessory,6h
+CALC,CALC,CALC,Accessory,6h
+SUP,SUP,Super Drive,Accessory,6h
+AD,AD,EE Devices,EE Devices,3m
