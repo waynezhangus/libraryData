@@ -1,2 +1,7 @@
 *.csv
 *.xlsx
+
+barcodes.csv
+patrons.csv
+!raw_f22_renew.csv
+!raw_w23_renew.csv
